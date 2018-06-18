@@ -22,3 +22,4 @@ IPFN largely builds upon [IPFS](https://ipfs.io) and its foundation - [libp2p](h
 * [IPFS](https://github.com/ipfs/specs)
 * [IPLD](https://github.com/ipld/specs)
 * [libp2p](https://github.com/libp2p/specs)
+* [multiformats](https://github.com/multiformats/multiformats)
