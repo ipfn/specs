@@ -6,7 +6,7 @@ This document assumes reader has an understanding of higher-level concepts.
 
 Please be familiar with [IPFS]() specification before attending to read IPFN specs as it builds upon it.
 
-To understand how we are going to achieve security in public please be familiar with [Ethereum]() blockchain.
+To understand how we are going to achieve security in public please be familiar with [rootchain](https://github.com/rootchain/specs) blockchain.
 
 ## Table of contents
 
