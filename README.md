@@ -107,4 +107,4 @@ IPFN can be expected to be exposed as HTTP/2.0 on `/ipfn/…` path.
 
 ## Note
 
-Focus is on V8 (Browser) and WASM and support of Docker through extension.
+Focus is on V8 (Browser) and WASM — support of Docker through extension.
